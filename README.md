@@ -50,17 +50,6 @@ This follows a classic RAG architecture with fully local execution.
 - Interactive Streamlit frontend  
 - Zero cloud dependencies  
 
----
-
-## Technical Stack
-
-- Python  
-- Pandas / NumPy  
-- SentenceTransformers  
-- FAISS  
-- Ollama (Phi-3)  
-- MLflow  
-- Streamlit  
 
 ---
 
